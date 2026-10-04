@@ -20,7 +20,7 @@ Seluruh rancangan sistem mengacu pada dokumen Spesifikasi Kebutuhan Perangkat Lu
 
 ## Arsitektur & Teknologi
 Sistem ini menggunakan arsitektur *Decoupled* (pemisahan Frontend dan Backend) yang dieksekusi secara efisien menggunakan ekosistem JavaScript:
-* **Frontend:** React (Vite) dengan Tailwind CSS, mengimplementasikan antarmuka *mobile-first* yang dikalibrasi pada *8px grid system*.
-* **Backend:** Node.js (Express) dieksekusi menggunakan **Bun** untuk optimasi memori yang ringan.
+* **Frontend:** React (Vite) dengan Tailwind CSS*.
+* **Backend:** Node.js (Express) dieksekusi menggunakan **Bun**.
 * **Storage:** Sinkronisasi *Cloud Database* eksternal dengan retensi *Web Storage API* (localStorage) untuk akses *offline*.
 
