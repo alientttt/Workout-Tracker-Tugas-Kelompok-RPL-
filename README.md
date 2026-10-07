@@ -6,6 +6,7 @@ Aplikasi pencatatan kebugaran (*Progressive Web App*) yang dirancang untuk membe
 Seluruh rancangan sistem mengacu pada dokumen Spesifikasi Kebutuhan Perangkat Lunak (SRS) format Karl E. Wiegers.
 * **SRS Workout Tracker R7U.pdf**
 * UML = **https://lucid.app/lucidchart/36b0e2e9-6d09-4c3f-abc8-83a9aaa4b1e1/edit?viewport_loc=-1048%2C-372%2C3242%2C1760%2C0_0&invitationId=inv_3842862e-9c57-4301-87b0-b7750c3b470f**
+* Activity Diagram = **https://app.diagrams.net/#G1S8-kwnaQ87zqc-WnmriI1eAlsApcZrdT#%7B%22pageId%22%3A%22wphwWem6zCR-5-3TY6mO%22%7D**
 
 ## Anggota Kelompok 1
 * **Akmal Mahesa** - *202343501641*
